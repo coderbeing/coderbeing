@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Skills.<br>🌱  I’m currently learning more about Cyber Security (Red Teaming).<br>🤝 I’m looking for help with Exploring New Technologies.<br>💬  Ask me about any tech-related stuff.<br>📫 How to reach me: Email - johrock39@gmail.com<br>👨‍💻 Pronouns: He/His<br><br><br>
+🔭 I’m currently working on my Skills.<br>🌱  I’m currently learning more about Cyber Security .<br>🤝 I’m looking for help with Exploring New Technologies.<br>💬  Ask me about any tech-related stuff.<br>📫 How to reach me: Email - johrock39@gmail.com<br>👨‍💻 Pronouns: He/His<br><br><br>
 
 
 # 💻 Tech Stack:
