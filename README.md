@@ -1,4 +1,4 @@
-# Red Team Expert | InfoSec  | OWASP | Cyber Security  | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
+# Red Team  | InfoSec  | OWASP | Cyber Security  | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
 
 
 # 💻 Tech Stack:
