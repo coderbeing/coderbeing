@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Red Team  | InfoSec  | OWASP | Cyber Security  | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
+# Red Team  | InfoSec  | OWASP | Cyber Security  | Cloud Security Engineer | DevSecOps | Mitre Att&ck Contributor | Spearheading Cyber Resilience
 
 <br>
 
