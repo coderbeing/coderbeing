@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Red Team  | InfoSec  | OWASP | Cyber Security  | Cloud Security Engineer | DevSecOps | Mitre Att&ck Contributor | Spearheading Cyber Resilience
+# Red Team  | InfoSec  | OWASP | Cyber Security  | Cloud Security | DevSecOps | Mitre Att&ck Contributor |
 
 <br>
 
