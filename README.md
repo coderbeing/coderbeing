@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Red Team  | InfoSec  | OWASP | Cyber Security  | Cloud Security | DevSecOps | Mitre Att&ck Contributor |
+# Red Team  | InfoSec  | OWASP | Cyber Security | Mitre Att&ck Contributor |
 
 <br>
 
